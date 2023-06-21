@@ -1,0 +1,4 @@
+The project uses "nRF5 SDK v17.0.2" in folder "C:/nRF5_SDK_17.0.2_d674dde"
+
+
+https://www.nordicsemi.com/Products/Development-software/nrf5-sdk/download
